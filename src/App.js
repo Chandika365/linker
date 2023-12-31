@@ -13,6 +13,7 @@ import Producttestominals from './Components/Producttestominals';
 import Promosection from './Components/Promosection';
 import State from './Components/State';
 import Teamsection from './Components/Teamsection';
+import { TestimonialCard } from './Components/TestimonialCard';
 import Testomionals from './Components/Testomionals';
 
 
@@ -35,6 +36,7 @@ function App() {
     <Catagory/>
     <Careers/>
     <Contact/>
+    <TestimonialCard/>
     </>
 
   );
