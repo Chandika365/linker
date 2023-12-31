@@ -17,6 +17,8 @@ function StarIcon() {
   );
 }
 
+
+
 export function TestimonialCard() {
   return (
     <div className="w-full max-w-[26rem] bg-white border border-gray-200 rounded-lg overflow-hidden shadow-md">
